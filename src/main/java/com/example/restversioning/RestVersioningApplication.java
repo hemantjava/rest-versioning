@@ -10,6 +10,7 @@ public class RestVersioningApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(RestVersioningApplication.class, args);
+		System.out.println("hemant");
 	}
 
 }
